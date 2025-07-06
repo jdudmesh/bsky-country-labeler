@@ -1,0 +1,2778 @@
+import { Label } from './types.ts';
+
+export const DELETE = '3ltbmjr4vsr2v';
+export const LABEL_LIMIT = 1;
+export const LABELS: Label[] = [
+  {
+    "rkey": "3ltbmgnot2q2o",
+    "identifier": "country-zw",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Zimbabwe",
+        "description": "Zimbabwe"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmgo37nr2z",
+    "identifier": "country-zm",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Zambia",
+        "description": "Zambia"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmgohtdf2b",
+    "identifier": "country-ye",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Yemen",
+        "description": "Yemen"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmgoudej2z",
+    "identifier": "country-eh",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Western Sahara",
+        "description": "Western Sahara"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmgpbgo52b",
+    "identifier": "country-wf",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Wallis and Futuna",
+        "description": "Wallis and Futuna"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmgpmz6i2w",
+    "identifier": "country-vn",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Vietnam",
+        "description": "Vietnam"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmgpzaun2t",
+    "identifier": "country-ve",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Venezuela",
+        "description": "Venezuela"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmgqfpem2r",
+    "identifier": "country-va",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Vatican",
+        "description": "Vatican"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmgqs6my2w",
+    "identifier": "country-vu",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Vanuatu",
+        "description": "Vanuatu"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmgr6hng2v",
+    "identifier": "country-uz",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Uzbekistan",
+        "description": "Uzbekistan"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmgrkw3g2v",
+    "identifier": "country-uy",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Uruguay",
+        "description": "Uruguay"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmgry4pz2z",
+    "identifier": "country-um",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "United States Minor Outlying Islands",
+        "description": "United States Minor Outlying Islands"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmgsdore2r",
+    "identifier": "country-us",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "United States",
+        "description": "United States"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmgsqjeo25",
+    "identifier": "country-gb",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "United Kingdom",
+        "description": "United Kingdom"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmgt52l62v",
+    "identifier": "country-ae",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "United Arab Emirates",
+        "description": "United Arab Emirates"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmgtjjvh2m",
+    "identifier": "country-ua",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Ukraine",
+        "description": "Ukraine"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmgtv4wk25",
+    "identifier": "country-ug",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Uganda",
+        "description": "Uganda"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmguclcq2w",
+    "identifier": "country-vi",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "U.S. Virgin Islands",
+        "description": "U.S. Virgin Islands"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmguobe52y",
+    "identifier": "country-tv",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Tuvalu",
+        "description": "Tuvalu"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmgv2fqd2h",
+    "identifier": "country-tc",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Turks and Caicos Islands",
+        "description": "Turks and Caicos Islands"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmgvgwif2t",
+    "identifier": "country-tm",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Turkmenistan",
+        "description": "Turkmenistan"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmgvt63n2t",
+    "identifier": "country-tr",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Turkey",
+        "description": "Turkey"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmgw7jqb2z",
+    "identifier": "country-tn",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Tunisia",
+        "description": "Tunisia"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmgwljhp2u",
+    "identifier": "country-tt",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Trinidad and Tobago",
+        "description": "Trinidad and Tobago"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmgwxmth2f",
+    "identifier": "country-to",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Tonga",
+        "description": "Tonga"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmgxel5f2t",
+    "identifier": "country-tk",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Tokelau",
+        "description": "Tokelau"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmgxqhnd2h",
+    "identifier": "country-tg",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Togo",
+        "description": "Togo"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmgy5uqi2o",
+    "identifier": "country-tl",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Timor Leste",
+        "description": "Timor Leste"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmgyjr7l2h",
+    "identifier": "country-nl",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "The Netherlands",
+        "description": "The Netherlands"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmgyw3u72f",
+    "identifier": "country-th",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Thailand",
+        "description": "Thailand"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmgzcafr2v",
+    "identifier": "country-tz",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Tanzania",
+        "description": "Tanzania"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmgzoicn2y",
+    "identifier": "country-tj",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Tajikistan",
+        "description": "Tajikistan"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmh22w6o2v",
+    "identifier": "country-tw",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Taiwan",
+        "description": "Taiwan"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmh2gpte2r",
+    "identifier": "country-sy",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Syria",
+        "description": "Syria"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmh2szjc25",
+    "identifier": "country-ch",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Switzerland",
+        "description": "Switzerland"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmh37ati2w",
+    "identifier": "country-se",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Sweden",
+        "description": "Sweden"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmh3lh3g25",
+    "identifier": "country-sj",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Svalbard and Jan Mayen",
+        "description": "Svalbard and Jan Mayen"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmh3wzuc25",
+    "identifier": "country-sr",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Suriname",
+        "description": "Suriname"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmh4dvc52b",
+    "identifier": "country-sd",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Sudan",
+        "description": "Sudan"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmh4ptk52y",
+    "identifier": "country-lk",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Sri Lanka",
+        "description": "Sri Lanka"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmh54aya2w",
+    "identifier": "country-es",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Spain",
+        "description": "Spain"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmh5iqok25",
+    "identifier": "country-ss",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "South Sudan",
+        "description": "South Sudan"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmh5v2x52y",
+    "identifier": "country-kr",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "South Korea",
+        "description": "South Korea"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmh6bxhw2v",
+    "identifier": "country-gs",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "South Georgia and the South Sandwich Islands",
+        "description": "South Georgia and the South Sandwich Islands"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmh6ovsl2h",
+    "identifier": "country-za",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "South Africa",
+        "description": "South Africa"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmh735sa2o",
+    "identifier": "country-so",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Somalia",
+        "description": "Somalia"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmh7hmkg2v",
+    "identifier": "country-sb",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Solomon Islands",
+        "description": "Solomon Islands"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmh7ttti2o",
+    "identifier": "country-si",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Slovenia",
+        "description": "Slovenia"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmhab4eh2f",
+    "identifier": "country-sk",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Slovakia",
+        "description": "Slovakia"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmhant4h2m",
+    "identifier": "country-sx",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Sint Maarten",
+        "description": "Sint Maarten"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmhb2dr625",
+    "identifier": "country-sg",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Singapore",
+        "description": "Singapore"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmhbfven2t",
+    "identifier": "country-sl",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Sierra Leone",
+        "description": "Sierra Leone"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmhbrsqg25",
+    "identifier": "country-sc",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Seychelles",
+        "description": "Seychelles"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmhc5xxh2u",
+    "identifier": "country-cs",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Serbia and Montenegro",
+        "description": "Serbia and Montenegro"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmhcl3pi2w",
+    "identifier": "country-rs",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Serbia",
+        "description": "Serbia"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmhcxfxt2h",
+    "identifier": "country-sn",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Senegal",
+        "description": "Senegal"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmhdekdj2c",
+    "identifier": "country-sa",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Saudi Arabia",
+        "description": "Saudi Arabia"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmhdq3ff2t",
+    "identifier": "country-st",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Sao Tome and Principe",
+        "description": "Sao Tome and Principe"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmhe4jvx2u",
+    "identifier": "country-sm",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "San Marino",
+        "description": "San Marino"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmheiqje2r",
+    "identifier": "country-ws",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Samoa",
+        "description": "Samoa"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmhevawh2u",
+    "identifier": "country-vc",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Saint Vincent and the Grenadines",
+        "description": "Saint Vincent and the Grenadines"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmhfbof72u",
+    "identifier": "country-pm",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Saint Pierre and Miquelon",
+        "description": "Saint Pierre and Miquelon"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmhfnyi32h",
+    "identifier": "country-mf",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Saint Martin",
+        "description": "Saint Martin"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmhg2j5a2w",
+    "identifier": "country-lc",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Saint Lucia",
+        "description": "Saint Lucia"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmhggfck25",
+    "identifier": "country-kn",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Saint Kitts and Nevis",
+        "description": "Saint Kitts and Nevis"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmhgsdyz2c",
+    "identifier": "country-sh",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Saint Helena",
+        "description": "Saint Helena"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmhh6m4z2v",
+    "identifier": "country-bl",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Saint Barthelemy",
+        "description": "Saint Barthelemy"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmhhkjc52y",
+    "identifier": "country-rw",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Rwanda",
+        "description": "Rwanda"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmhhwwxj2z",
+    "identifier": "country-ru",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Russia",
+        "description": "Russia"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmhicucd2h",
+    "identifier": "country-ro",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Romania",
+        "description": "Romania"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmhipe5p2u",
+    "identifier": "country-re",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Reunion",
+        "description": "Reunion"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmhj37ze2r",
+    "identifier": "country-cg",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Republic of the Congo",
+        "description": "Republic of the Congo"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmhjhsee2r",
+    "identifier": "country-qa",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Qatar",
+        "description": "Qatar"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmhjvhue2r",
+    "identifier": "country-pr",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Puerto Rico",
+        "description": "Puerto Rico"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmhkszck25",
+    "identifier": "country-pt",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Portugal",
+        "description": "Portugal"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmhl7wov2b",
+    "identifier": "country-pl",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Poland",
+        "description": "Poland"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmhlnfui2o",
+    "identifier": "country-pn",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Pitcairn",
+        "description": "Pitcairn"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmhlzm3r2v",
+    "identifier": "country-ph",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Philippines",
+        "description": "Philippines"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmhmfw3x2u",
+    "identifier": "country-pe",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Peru",
+        "description": "Peru"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmhmsh572f",
+    "identifier": "country-py",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Paraguay",
+        "description": "Paraguay"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmhn7jg42r",
+    "identifier": "country-pg",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Papua New Guinea",
+        "description": "Papua New Guinea"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmhnnhoa2o",
+    "identifier": "country-pa",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Panama",
+        "description": "Panama"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmhnzour2v",
+    "identifier": "country-ps",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Palestinian Territory",
+        "description": "Palestinian Territory"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmhoghnc25",
+    "identifier": "country-pw",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Palau",
+        "description": "Palau"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmhosog62v",
+    "identifier": "country-pk",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Pakistan",
+        "description": "Pakistan"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmhp7icr2c",
+    "identifier": "country-om",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Oman",
+        "description": "Oman"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmhpmchr2c",
+    "identifier": "country-no",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Norway",
+        "description": "Norway"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmhpyy6625",
+    "identifier": "country-mp",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Northern Mariana Islands",
+        "description": "Northern Mariana Islands"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmhqfdrj2v",
+    "identifier": "country-mk",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "North Macedonia",
+        "description": "North Macedonia"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmhqqwdp2u",
+    "identifier": "country-kp",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "North Korea",
+        "description": "North Korea"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmhr56hr2v",
+    "identifier": "country-nf",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Norfolk Island",
+        "description": "Norfolk Island"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmhrjx6j2z",
+    "identifier": "country-nu",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Niue",
+        "description": "Niue"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmhrw65v2b",
+    "identifier": "country-ng",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Nigeria",
+        "description": "Nigeria"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmhscen62v",
+    "identifier": "country-ne",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Niger",
+        "description": "Niger"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmhsokta2w",
+    "identifier": "country-ni",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Nicaragua",
+        "description": "Nicaragua"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmht3d6m2r",
+    "identifier": "country-nz",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "New Zealand",
+        "description": "New Zealand"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmhti4so25",
+    "identifier": "country-nc",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "New Caledonia",
+        "description": "New Caledonia"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmhttqgm2r",
+    "identifier": "country-an",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Netherlands Antilles",
+        "description": "Netherlands Antilles"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmhu7zhg25",
+    "identifier": "country-np",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Nepal",
+        "description": "Nepal"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmhumipg2v",
+    "identifier": "country-nr",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Nauru",
+        "description": "Nauru"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmhuynwa2w",
+    "identifier": "country-na",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Namibia",
+        "description": "Namibia"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmhvelid2h",
+    "identifier": "country-mm",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Myanmar",
+        "description": "Myanmar"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmhvrhya2o",
+    "identifier": "country-mz",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Mozambique",
+        "description": "Mozambique"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmhw62zp2f",
+    "identifier": "country-ma",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Morocco",
+        "description": "Morocco"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmhwl3gj2z",
+    "identifier": "country-ms",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Montserrat",
+        "description": "Montserrat"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmhwxl752b",
+    "identifier": "country-me",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Montenegro",
+        "description": "Montenegro"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmhxezen2t",
+    "identifier": "country-mn",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Mongolia",
+        "description": "Mongolia"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmhxrd6h2m",
+    "identifier": "country-mc",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Monaco",
+        "description": "Monaco"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmhy5gni2o",
+    "identifier": "country-md",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Moldova",
+        "description": "Moldova"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmhyjmjh2m",
+    "identifier": "country-fm",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Micronesia",
+        "description": "Micronesia"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmhyvfx72f",
+    "identifier": "country-mx",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Mexico",
+        "description": "Mexico"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmhzcj5f2t",
+    "identifier": "country-yt",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Mayotte",
+        "description": "Mayotte"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmhzphbx2u",
+    "identifier": "country-mu",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Mauritius",
+        "description": "Mauritius"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmi23g7k25",
+    "identifier": "country-mr",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Mauritania",
+        "description": "Mauritania"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmi2hlcl2h",
+    "identifier": "country-mq",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Martinique",
+        "description": "Martinique"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmi2tssg25",
+    "identifier": "country-mh",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Marshall Islands",
+        "description": "Marshall Islands"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmi37xzh2u",
+    "identifier": "country-mt",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Malta",
+        "description": "Malta"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmi3m7zv2b",
+    "identifier": "country-ml",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Mali",
+        "description": "Mali"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmi3yics25",
+    "identifier": "country-mv",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Maldives",
+        "description": "Maldives"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmi4ewnb2c",
+    "identifier": "country-my",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Malaysia",
+        "description": "Malaysia"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmi4qto72m",
+    "identifier": "country-mw",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Malawi",
+        "description": "Malawi"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmi55dd52b",
+    "identifier": "country-mg",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Madagascar",
+        "description": "Madagascar"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmi5jtcj2c",
+    "identifier": "country-mo",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Macao",
+        "description": "Macao"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmi5w4fr2v",
+    "identifier": "country-lu",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Luxembourg",
+        "description": "Luxembourg"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmi6cvig25",
+    "identifier": "country-lt",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Lithuania",
+        "description": "Lithuania"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmi6p4lf2t",
+    "identifier": "country-li",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Liechtenstein",
+        "description": "Liechtenstein"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmi73wra2o",
+    "identifier": "country-ly",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Libya",
+        "description": "Libya"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmi7i4hr2c",
+    "identifier": "country-lr",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Liberia",
+        "description": "Liberia"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmi7udjg25",
+    "identifier": "country-ls",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Lesotho",
+        "description": "Lesotho"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmiaaksk25",
+    "identifier": "country-lb",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Lebanon",
+        "description": "Lebanon"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmiamqm62v",
+    "identifier": "country-lv",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Latvia",
+        "description": "Latvia"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmiazgb72f",
+    "identifier": "country-la",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Laos",
+        "description": "Laos"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmibggm72u",
+    "identifier": "country-kg",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Kyrgyzstan",
+        "description": "Kyrgyzstan"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmibsm6f2t",
+    "identifier": "country-kw",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Kuwait",
+        "description": "Kuwait"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmic6sdg25",
+    "identifier": "country-xk",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Kosovo",
+        "description": "Kosovo"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmickuc72f",
+    "identifier": "country-ki",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Kiribati",
+        "description": "Kiribati"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmicxi7g2v",
+    "identifier": "country-ke",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Kenya",
+        "description": "Kenya"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmidhjmh2u",
+    "identifier": "country-kz",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Kazakhstan",
+        "description": "Kazakhstan"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmidtweg2v",
+    "identifier": "country-jo",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Jordan",
+        "description": "Jordan"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmiebwdr2c",
+    "identifier": "country-je",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Jersey",
+        "description": "Jersey"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmieo3jz2v",
+    "identifier": "country-jp",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Japan",
+        "description": "Japan"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmiezgtd2h",
+    "identifier": "country-jm",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Jamaica",
+        "description": "Jamaica"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmiffxlf2t",
+    "identifier": "country-ci",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Ivory Coast",
+        "description": "Ivory Coast"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmifsr462v",
+    "identifier": "country-it",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Italy",
+        "description": "Italy"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmig7m3k25",
+    "identifier": "country-il",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Israel",
+        "description": "Israel"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmiglsz52b",
+    "identifier": "country-im",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Isle of Man",
+        "description": "Isle of Man"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmigyjt72u",
+    "identifier": "country-ie",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Ireland",
+        "description": "Ireland"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmihetcf2t",
+    "identifier": "country-iq",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Iraq",
+        "description": "Iraq"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmihratp2u",
+    "identifier": "country-ir",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Iran",
+        "description": "Iran"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmii57t72m",
+    "identifier": "country-id",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Indonesia",
+        "description": "Indonesia"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmiikbmp2u",
+    "identifier": "country-in",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "India",
+        "description": "India"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmiiwuev2b",
+    "identifier": "country-is",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Iceland",
+        "description": "Iceland"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmijd7qg2v",
+    "identifier": "country-hu",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Hungary",
+        "description": "Hungary"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmijqp4h2u",
+    "identifier": "country-hk",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Hong Kong",
+        "description": "Hong Kong"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmik5t5k25",
+    "identifier": "country-hn",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Honduras",
+        "description": "Honduras"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmikkzdo25",
+    "identifier": "country-hm",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Heard Island and McDonald Islands",
+        "description": "Heard Island and McDonald Islands"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmikxsvi2w",
+    "identifier": "country-ht",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Haiti",
+        "description": "Haiti"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmileetv2b",
+    "identifier": "country-gy",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Guyana",
+        "description": "Guyana"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmilqoxp2u",
+    "identifier": "country-gw",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Guinea-Bissau",
+        "description": "Guinea-Bissau"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmim5fzi2w",
+    "identifier": "country-gn",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Guinea",
+        "description": "Guinea"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmimjv252b",
+    "identifier": "country-gg",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Guernsey",
+        "description": "Guernsey"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmimvtxr2v",
+    "identifier": "country-gt",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Guatemala",
+        "description": "Guatemala"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmincaxj2z",
+    "identifier": "country-gu",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Guam",
+        "description": "Guam"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbminoana2o",
+    "identifier": "country-gp",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Guadeloupe",
+        "description": "Guadeloupe"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmio2ghc25",
+    "identifier": "country-gd",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Grenada",
+        "description": "Grenada"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmiohjp52b",
+    "identifier": "country-gl",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Greenland",
+        "description": "Greenland"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmiotzad2h",
+    "identifier": "country-gr",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Greece",
+        "description": "Greece"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmipbrzn2t",
+    "identifier": "country-gi",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Gibraltar",
+        "description": "Gibraltar"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmipowwf2t",
+    "identifier": "country-gh",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Ghana",
+        "description": "Ghana"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmiq34w62v",
+    "identifier": "country-de",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Germany",
+        "description": "Germany"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmiqguch2f",
+    "identifier": "country-ge",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Georgia",
+        "description": "Georgia"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmiqtcw52y",
+    "identifier": "country-gm",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Gambia",
+        "description": "Gambia"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmir7zer2z",
+    "identifier": "country-ga",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Gabon",
+        "description": "Gabon"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmirlw6h2u",
+    "identifier": "country-tf",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "French Southern Territories",
+        "description": "French Southern Territories"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmiry67g25",
+    "identifier": "country-pf",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "French Polynesia",
+        "description": "French Polynesia"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmiseeaa2w",
+    "identifier": "country-gf",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "French Guiana",
+        "description": "French Guiana"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmisqmg52b",
+    "identifier": "country-fr",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "France",
+        "description": "France"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmit5dnf2b",
+    "identifier": "country-fi",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Finland",
+        "description": "Finland"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmitk5wd2h",
+    "identifier": "country-fj",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Fiji",
+        "description": "Fiji"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmitxdow25",
+    "identifier": "country-fo",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Faroe Islands",
+        "description": "Faroe Islands"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmiud24f2y",
+    "identifier": "country-fk",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Falkland Islands",
+        "description": "Falkland Islands"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmiupqhi2o",
+    "identifier": "country-et",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Ethiopia",
+        "description": "Ethiopia"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmiv4rrg2v",
+    "identifier": "country-sz",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Eswatini",
+        "description": "Eswatini"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmiviqce2r",
+    "identifier": "country-ee",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Estonia",
+        "description": "Estonia"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmivvaux2m",
+    "identifier": "country-er",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Eritrea",
+        "description": "Eritrea"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmiwbpl625",
+    "identifier": "country-gq",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Equatorial Guinea",
+        "description": "Equatorial Guinea"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmiwnxtk25",
+    "identifier": "country-sv",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "El Salvador",
+        "description": "El Salvador"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmiwzvmj2z",
+    "identifier": "country-eg",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Egypt",
+        "description": "Egypt"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmixgc272u",
+    "identifier": "country-ec",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Ecuador",
+        "description": "Ecuador"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmixscsp2u",
+    "identifier": "country-do",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Dominican Republic",
+        "description": "Dominican Republic"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmiy6jba2w",
+    "identifier": "country-dm",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Dominica",
+        "description": "Dominica"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmiyl5lf2y",
+    "identifier": "country-dj",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Djibouti",
+        "description": "Djibouti"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmiyy4rh2u",
+    "identifier": "country-dk",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Denmark",
+        "description": "Denmark"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmizdzme2r",
+    "identifier": "country-cd",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Democratic Republic of the Congo",
+        "description": "Democratic Republic of the Congo"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmizqttr2z",
+    "identifier": "country-cz",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Czechia",
+        "description": "Czechia"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmj24ifd2h",
+    "identifier": "country-cy",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Cyprus",
+        "description": "Cyprus"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmj2j2pz2v",
+    "identifier": "country-cw",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Curacao",
+        "description": "Curacao"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmj2v7cg25",
+    "identifier": "country-cu",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Cuba",
+        "description": "Cuba"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmj3b6j52y",
+    "identifier": "country-hr",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Croatia",
+        "description": "Croatia"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmj3nm4r2c",
+    "identifier": "country-cr",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Costa Rica",
+        "description": "Costa Rica"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmj42nbx2m",
+    "identifier": "country-ck",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Cook Islands",
+        "description": "Cook Islands"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmj4hbwr2v",
+    "identifier": "country-km",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Comoros",
+        "description": "Comoros"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmj4u2ga2w",
+    "identifier": "country-co",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Colombia",
+        "description": "Colombia"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmj57xks25",
+    "identifier": "country-cc",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Cocos Islands",
+        "description": "Cocos Islands"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmj5mini2w",
+    "identifier": "country-cx",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Christmas Island",
+        "description": "Christmas Island"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmj5yfad2h",
+    "identifier": "country-cn",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "China",
+        "description": "China"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmj6ffeh2f",
+    "identifier": "country-cl",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Chile",
+        "description": "Chile"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmj6robh2u",
+    "identifier": "country-td",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Chad",
+        "description": "Chad"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmj75rn72f",
+    "identifier": "country-cf",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Central African Republic",
+        "description": "Central African Republic"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmj7kfdr2z",
+    "identifier": "country-ky",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Cayman Islands",
+        "description": "Cayman Islands"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmj7webh2m",
+    "identifier": "country-ca",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Canada",
+        "description": "Canada"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmjaea472f",
+    "identifier": "country-cm",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Cameroon",
+        "description": "Cameroon"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmjaql3c25",
+    "identifier": "country-kh",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Cambodia",
+        "description": "Cambodia"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmjb4km52y",
+    "identifier": "country-cv",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Cabo Verde",
+        "description": "Cabo Verde"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmjbiz4f2t",
+    "identifier": "country-bi",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Burundi",
+        "description": "Burundi"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmjbvcw72m",
+    "identifier": "country-bf",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Burkina Faso",
+        "description": "Burkina Faso"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmjcbz672m",
+    "identifier": "country-bg",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Bulgaria",
+        "description": "Bulgaria"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmjcrwcr2v",
+    "identifier": "country-bn",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Brunei",
+        "description": "Brunei"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmjdrv2i2w",
+    "identifier": "country-vg",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "British Virgin Islands",
+        "description": "British Virgin Islands"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmje6alf2y",
+    "identifier": "country-io",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "British Indian Ocean Territory",
+        "description": "British Indian Ocean Territory"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmjelauc25",
+    "identifier": "country-br",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Brazil",
+        "description": "Brazil"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmjex4me2r",
+    "identifier": "country-bv",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Bouvet Island",
+        "description": "Bouvet Island"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmjfe5c72f",
+    "identifier": "country-bw",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Botswana",
+        "description": "Botswana"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmjfqxh72f",
+    "identifier": "country-ba",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Bosnia and Herzegovina",
+        "description": "Bosnia and Herzegovina"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmjg5vtr2c",
+    "identifier": "country-bq",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Bonaire, Saint Eustatius and Saba ",
+        "description": "Bonaire, Saint Eustatius and Saba "
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmjgjya72f",
+    "identifier": "country-bo",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Bolivia",
+        "description": "Bolivia"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmjgwxka2o",
+    "identifier": "country-bt",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Bhutan",
+        "description": "Bhutan"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmjhd72f2y",
+    "identifier": "country-bm",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Bermuda",
+        "description": "Bermuda"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmjhpdd625",
+    "identifier": "country-bj",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Benin",
+        "description": "Benin"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmji46xa2o",
+    "identifier": "country-bz",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Belize",
+        "description": "Belize"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmjiiymg25",
+    "identifier": "country-be",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Belgium",
+        "description": "Belgium"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmjiv7ag25",
+    "identifier": "country-by",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Belarus",
+        "description": "Belarus"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmjjbfm72m",
+    "identifier": "country-bb",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Barbados",
+        "description": "Barbados"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmjjoaja2o",
+    "identifier": "country-bd",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Bangladesh",
+        "description": "Bangladesh"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmjk24gm2r",
+    "identifier": "country-bh",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Bahrain",
+        "description": "Bahrain"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmjkgfu52y",
+    "identifier": "country-bs",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Bahamas",
+        "description": "Bahamas"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmjkskad2h",
+    "identifier": "country-az",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Azerbaijan",
+        "description": "Azerbaijan"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmjl6t452y",
+    "identifier": "country-at",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Austria",
+        "description": "Austria"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmjlljrg2v",
+    "identifier": "country-au",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Australia",
+        "description": "Australia"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmjlxr2i2o",
+    "identifier": "country-aw",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Aruba",
+        "description": "Aruba"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmjmdzal2h",
+    "identifier": "country-am",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Armenia",
+        "description": "Armenia"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmjmq6vd2h",
+    "identifier": "country-ar",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Argentina",
+        "description": "Argentina"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmjn4p6g25",
+    "identifier": "country-ag",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Antigua and Barbuda",
+        "description": "Antigua and Barbuda"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmjnjomf2y",
+    "identifier": "country-aq",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Antarctica",
+        "description": "Antarctica"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmjnwdig25",
+    "identifier": "country-ai",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Anguilla",
+        "description": "Anguilla"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmjocl6r2v",
+    "identifier": "country-ao",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Angola",
+        "description": "Angola"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmjoos4f2y",
+    "identifier": "country-ad",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Andorra",
+        "description": "Andorra"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmjp3sbp2u",
+    "identifier": "country-as",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "American Samoa",
+        "description": "American Samoa"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmjpindf2t",
+    "identifier": "country-dz",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Algeria",
+        "description": "Algeria"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmjpv7ct2h",
+    "identifier": "country-al",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Albania",
+        "description": "Albania"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmjqcjei2w",
+    "identifier": "country-ax",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Aland Islands",
+        "description": "Aland Islands"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbmjqpamf2y",
+    "identifier": "country-af",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Afghanistan",
+        "description": "Afghanistan"
+      }
+    ]
+  }
+];
