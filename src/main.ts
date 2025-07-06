@@ -1,7 +1,7 @@
-import { CommitCreateEvent, Jetstream } from '@skyware/jetstream';
+import { CommitCreateEvent, Jetstream } from './jetstream.js';
 import fs from 'node:fs';
 
-import { CURSOR_UPDATE_INTERVAL, DID, FIREHOSE_URL, HOST, METRICS_PORT, PORT, WANTED_COLLECTION } from './config.js';
+import { CURSOR_UPDATE_INTERVAL, CURSOR_FILE, DID, FIREHOSE_URL, HOST, METRICS_PORT, PORT, WANTED_COLLECTION } from './config.js';
 import { label, labelerServer } from './label.js';
 import logger from './logger.js';
 import { startMetricsServer } from './metrics.js';
@@ -15,13 +15,13 @@ function epochUsToDateTime(cursor: number): string {
 
 try {
   logger.info('Trying to read cursor from cursor.txt...');
-  cursor = Number(fs.readFileSync('cursor.txt', 'utf8'));
+  cursor = Number(fs.readFileSync(CURSOR_FILE, 'utf8'));
   logger.info(`Cursor found: ${cursor} (${epochUsToDateTime(cursor)})`);
 } catch (error) {
   if (error instanceof Error && 'code' in error && error.code === 'ENOENT') {
     cursor = Math.floor(Date.now() * 1000);
     logger.info(`Cursor not found in cursor.txt, setting cursor to: ${cursor} (${epochUsToDateTime(cursor)})`);
-    fs.writeFileSync('cursor.txt', cursor.toString(), 'utf8');
+    fs.writeFileSync(CURSOR_FILE, cursor.toString(), 'utf8');
   } else {
     logger.error(error);
     process.exit(1);
@@ -30,6 +30,7 @@ try {
 
 const jetstream = new Jetstream({
   wantedCollections: [WANTED_COLLECTION],
+  //wantedDids: ["did:plc:7bfjrxgtoojmbtxcbmj2llpf"],
   endpoint: FIREHOSE_URL,
   cursor: cursor,
 });
@@ -54,6 +55,7 @@ jetstream.on('close', () => {
 });
 
 jetstream.on('error', (error) => {
+  console.log(error);
   logger.error(`Jetstream error: ${error.message}`);
 });
 

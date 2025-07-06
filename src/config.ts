@@ -3,6 +3,7 @@ import 'dotenv/config';
 export const DID = process.env.DID ?? '';
 export const SIGNING_KEY = process.env.SIGNING_KEY ?? '';
 export const DB_PATH = process.env.DB_PATH ?? 'labels.db';
+export const CURSOR_FILE = process.env.CURSOR_FILE ?? 'cursor.txt';
 export const HOST = process.env.HOST ?? '127.0.0.1';
 export const PORT = process.env.PORT ? Number(process.env.PORT) : 4100;
 export const METRICS_PORT = process.env.METRICS_PORT ? Number(process.env.METRICS_PORT) : 4101;
