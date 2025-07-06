@@ -1,10 +1,10 @@
 import { Label } from './types.ts';
 
-export const DELETE = '3ltbmjr4vsr2v';
+export const DELETE = '3ltbquyyufd2f';
 export const LABEL_LIMIT = 1;
 export const LABELS: Label[] = [
   {
-    "rkey": "3ltbmgnot2q2o",
+    "rkey": "3ltbqruzcte2y",
     "identifier": "country-zw",
     "locales": [
       {
@@ -15,7 +15,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmgo37nr2z",
+    "rkey": "3ltbqrvfbne2y",
     "identifier": "country-zm",
     "locales": [
       {
@@ -26,7 +26,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmgohtdf2b",
+    "rkey": "3ltbqrvsbtq2u",
     "identifier": "country-ye",
     "locales": [
       {
@@ -37,7 +37,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmgoudej2z",
+    "rkey": "3ltbqrw7ele2w",
     "identifier": "country-eh",
     "locales": [
       {
@@ -48,7 +48,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmgpbgo52b",
+    "rkey": "3ltbqrwmksa2m",
     "identifier": "country-wf",
     "locales": [
       {
@@ -59,7 +59,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmgpmz6i2w",
+    "rkey": "3ltbqrwys6e2o",
     "identifier": "country-vn",
     "locales": [
       {
@@ -70,7 +70,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmgpzaun2t",
+    "rkey": "3ltbqrxexs72t",
     "identifier": "country-ve",
     "locales": [
       {
@@ -81,7 +81,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmgqfpem2r",
+    "rkey": "3ltbqrxrtkj2v",
     "identifier": "country-va",
     "locales": [
       {
@@ -92,7 +92,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmgqs6my2w",
+    "rkey": "3ltbqry5zie2y",
     "identifier": "country-vu",
     "locales": [
       {
@@ -103,7 +103,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmgr6hng2v",
+    "rkey": "3ltbqryk7q42b",
     "identifier": "country-uz",
     "locales": [
       {
@@ -114,7 +114,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmgrkw3g2v",
+    "rkey": "3ltbqryxbef25",
     "identifier": "country-uy",
     "locales": [
       {
@@ -125,7 +125,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmgry4pz2z",
+    "rkey": "3ltbqrzcvcg2r",
     "identifier": "country-um",
     "locales": [
       {
@@ -136,29 +136,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmgsdore2r",
-    "identifier": "country-us",
-    "locales": [
-      {
-        "lang": "en",
-        "name": "United States",
-        "description": "United States"
-      }
-    ]
-  },
-  {
-    "rkey": "3ltbmgsqjeo25",
-    "identifier": "country-gb",
-    "locales": [
-      {
-        "lang": "en",
-        "name": "United Kingdom",
-        "description": "United Kingdom"
-      }
-    ]
-  },
-  {
-    "rkey": "3ltbmgt52l62v",
+    "rkey": "3ltbqrzqbia25",
     "identifier": "country-ae",
     "locales": [
       {
@@ -169,7 +147,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmgtjjvh2m",
+    "rkey": "3ltbqs24vmi2v",
     "identifier": "country-ua",
     "locales": [
       {
@@ -180,7 +158,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmgtv4wk25",
+    "rkey": "3ltbqs2jonf25",
     "identifier": "country-ug",
     "locales": [
       {
@@ -191,7 +169,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmguclcq2w",
+    "rkey": "3ltbqs2w5ys2z",
     "identifier": "country-vi",
     "locales": [
       {
@@ -202,7 +180,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmguobe52y",
+    "rkey": "3ltbqs3c4oh2t",
     "identifier": "country-tv",
     "locales": [
       {
@@ -213,7 +191,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmgv2fqd2h",
+    "rkey": "3ltbqs3oboy2v",
     "identifier": "country-tc",
     "locales": [
       {
@@ -224,7 +202,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmgvgwif2t",
+    "rkey": "3ltbqs43eka2m",
     "identifier": "country-tm",
     "locales": [
       {
@@ -235,7 +213,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmgvt63n2t",
+    "rkey": "3ltbqs4i6ee2w",
     "identifier": "country-tr",
     "locales": [
       {
@@ -246,7 +224,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmgw7jqb2z",
+    "rkey": "3ltbqs4upvl2c",
     "identifier": "country-tn",
     "locales": [
       {
@@ -257,7 +235,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmgwljhp2u",
+    "rkey": "3ltbqs5arim2y",
     "identifier": "country-tt",
     "locales": [
       {
@@ -268,7 +246,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmgwxmth2f",
+    "rkey": "3ltbqs5n6fa2v",
     "identifier": "country-to",
     "locales": [
       {
@@ -279,7 +257,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmgxel5f2t",
+    "rkey": "3ltbqs5zele2w",
     "identifier": "country-tk",
     "locales": [
       {
@@ -290,7 +268,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmgxqhnd2h",
+    "rkey": "3ltbqs6fnur2v",
     "identifier": "country-tg",
     "locales": [
       {
@@ -301,7 +279,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmgy5uqi2o",
+    "rkey": "3ltbqs6rskb2v",
     "identifier": "country-tl",
     "locales": [
       {
@@ -312,7 +290,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmgyjr7l2h",
+    "rkey": "3ltbqs76rlj2v",
     "identifier": "country-nl",
     "locales": [
       {
@@ -323,7 +301,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmgyw3u72f",
+    "rkey": "3ltbqs7ktun25",
     "identifier": "country-th",
     "locales": [
       {
@@ -334,7 +312,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmgzcafr2v",
+    "rkey": "3ltbqs7xnre2y",
     "identifier": "country-tz",
     "locales": [
       {
@@ -345,7 +323,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmgzoicn2y",
+    "rkey": "3ltbqsaehwe2y",
     "identifier": "country-tj",
     "locales": [
       {
@@ -356,7 +334,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmh22w6o2v",
+    "rkey": "3ltbqsarjda2v",
     "identifier": "country-tw",
     "locales": [
       {
@@ -367,7 +345,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmh2gpte2r",
+    "rkey": "3ltbqsb6e5e2o",
     "identifier": "country-sy",
     "locales": [
       {
@@ -378,7 +356,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmh2szjc25",
+    "rkey": "3ltbqsbl4fl2c",
     "identifier": "country-ch",
     "locales": [
       {
@@ -389,7 +367,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmh37ati2w",
+    "rkey": "3ltbqsbxzfp2t",
     "identifier": "country-se",
     "locales": [
       {
@@ -400,7 +378,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmh3lh3g25",
+    "rkey": "3ltbqscdws42b",
     "identifier": "country-sj",
     "locales": [
       {
@@ -411,7 +389,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmh3wzuc25",
+    "rkey": "3ltbqscq5fi25",
     "identifier": "country-sr",
     "locales": [
       {
@@ -422,7 +400,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmh4dvc52b",
+    "rkey": "3ltbqsd44me2y",
     "identifier": "country-sd",
     "locales": [
       {
@@ -433,7 +411,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmh4ptk52y",
+    "rkey": "3ltbqsdj6nh2t",
     "identifier": "country-lk",
     "locales": [
       {
@@ -444,7 +422,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmh54aya2w",
+    "rkey": "3ltbqsdvxu42o",
     "identifier": "country-es",
     "locales": [
       {
@@ -455,7 +433,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmh5iqok25",
+    "rkey": "3ltbqsedzca2m",
     "identifier": "country-ss",
     "locales": [
       {
@@ -466,7 +444,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmh5v2x52y",
+    "rkey": "3ltbqseqtpi25",
     "identifier": "country-kr",
     "locales": [
       {
@@ -477,7 +455,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmh6bxhw2v",
+    "rkey": "3ltbqsf5w5h2t",
     "identifier": "country-gs",
     "locales": [
       {
@@ -488,7 +466,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmh6ovsl2h",
+    "rkey": "3ltbqsfkob42w",
     "identifier": "country-za",
     "locales": [
       {
@@ -499,7 +477,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmh735sa2o",
+    "rkey": "3ltbqsfy3fq2v",
     "identifier": "country-so",
     "locales": [
       {
@@ -510,7 +488,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmh7hmkg2v",
+    "rkey": "3ltbqsgfldb2v",
     "identifier": "country-sb",
     "locales": [
       {
@@ -521,7 +499,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmh7ttti2o",
+    "rkey": "3ltbqsgrk5b2v",
     "identifier": "country-si",
     "locales": [
       {
@@ -532,7 +510,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmhab4eh2f",
+    "rkey": "3ltbqsh5rqj2v",
     "identifier": "country-sk",
     "locales": [
       {
@@ -543,7 +521,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmhant4h2m",
+    "rkey": "3ltbqshk6nt2c",
     "identifier": "country-sx",
     "locales": [
       {
@@ -554,7 +532,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmhb2dr625",
+    "rkey": "3ltbqshw5jk2z",
     "identifier": "country-sg",
     "locales": [
       {
@@ -565,7 +543,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmhbfven2t",
+    "rkey": "3ltbqsiccok2h",
     "identifier": "country-sl",
     "locales": [
       {
@@ -576,7 +554,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmhbrsqg25",
+    "rkey": "3ltbqsiphxm2o",
     "identifier": "country-sc",
     "locales": [
       {
@@ -587,7 +565,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmhc5xxh2u",
+    "rkey": "3ltbqsj3zwj2v",
     "identifier": "country-cs",
     "locales": [
       {
@@ -598,7 +576,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmhcl3pi2w",
+    "rkey": "3ltbqsjidue2o",
     "identifier": "country-rs",
     "locales": [
       {
@@ -609,7 +587,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmhcxfxt2h",
+    "rkey": "3ltbqsjuw6h2t",
     "identifier": "country-sn",
     "locales": [
       {
@@ -620,7 +598,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmhdekdj2c",
+    "rkey": "3ltbqskbab42b",
     "identifier": "country-sa",
     "locales": [
       {
@@ -631,7 +609,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmhdq3ff2t",
+    "rkey": "3ltbqsknhoi2v",
     "identifier": "country-st",
     "locales": [
       {
@@ -642,7 +620,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmhe4jvx2u",
+    "rkey": "3ltbqskzg3e2y",
     "identifier": "country-sm",
     "locales": [
       {
@@ -653,7 +631,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmheiqje2r",
+    "rkey": "3ltbqslfulh2t",
     "identifier": "country-ws",
     "locales": [
       {
@@ -664,7 +642,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmhevawh2u",
+    "rkey": "3ltbqslsnoe2w",
     "identifier": "country-vc",
     "locales": [
       {
@@ -675,7 +653,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmhfbof72u",
+    "rkey": "3ltbqsm7h2q2u",
     "identifier": "country-pm",
     "locales": [
       {
@@ -686,7 +664,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmhfnyi32h",
+    "rkey": "3ltbqsmmc442o",
     "identifier": "country-mf",
     "locales": [
       {
@@ -697,7 +675,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmhg2j5a2w",
+    "rkey": "3ltbqsmyvde2y",
     "identifier": "country-lc",
     "locales": [
       {
@@ -708,7 +686,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmhggfck25",
+    "rkey": "3ltbqsnfdf42b",
     "identifier": "country-kn",
     "locales": [
       {
@@ -719,7 +697,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmhgsdyz2c",
+    "rkey": "3ltbqsnrl3j2v",
     "identifier": "country-sh",
     "locales": [
       {
@@ -730,7 +708,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmhh6m4z2v",
+    "rkey": "3ltbqso5rgi2v",
     "identifier": "country-bl",
     "locales": [
       {
@@ -741,7 +719,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmhhkjc52y",
+    "rkey": "3ltbqsojpte2y",
     "identifier": "country-rw",
     "locales": [
       {
@@ -752,7 +730,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmhhwwxj2z",
+    "rkey": "3ltbqsowqv72t",
     "identifier": "country-ru",
     "locales": [
       {
@@ -763,7 +741,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmhicucd2h",
+    "rkey": "3ltbqspd6gl2c",
     "identifier": "country-ro",
     "locales": [
       {
@@ -774,7 +752,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmhipe5p2u",
+    "rkey": "3ltbqsppgca2v",
     "identifier": "country-re",
     "locales": [
       {
@@ -785,7 +763,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmhj37ze2r",
+    "rkey": "3ltbqsq3fqh2t",
     "identifier": "country-cg",
     "locales": [
       {
@@ -796,7 +774,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmhjhsee2r",
+    "rkey": "3ltbqsqhmbm2w",
     "identifier": "country-qa",
     "locales": [
       {
@@ -807,7 +785,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmhjvhue2r",
+    "rkey": "3ltbqsqts5k2z",
     "identifier": "country-pr",
     "locales": [
       {
@@ -818,7 +796,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmhkszck25",
+    "rkey": "3ltbqsr7xou2o",
     "identifier": "country-pt",
     "locales": [
       {
@@ -829,7 +807,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmhl7wov2b",
+    "rkey": "3ltbqsrmaii2m",
     "identifier": "country-pl",
     "locales": [
       {
@@ -840,7 +818,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmhlnfui2o",
+    "rkey": "3ltbqsryfw42o",
     "identifier": "country-pn",
     "locales": [
       {
@@ -851,7 +829,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmhlzm3r2v",
+    "rkey": "3ltbqsselnq2u",
     "identifier": "country-ph",
     "locales": [
       {
@@ -862,7 +840,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmhmfw3x2u",
+    "rkey": "3ltbqssr35f25",
     "identifier": "country-pe",
     "locales": [
       {
@@ -873,7 +851,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmhmsh572f",
+    "rkey": "3ltbqst5oce2o",
     "identifier": "country-py",
     "locales": [
       {
@@ -884,7 +862,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmhn7jg42r",
+    "rkey": "3ltbqstkpey2u",
     "identifier": "country-pg",
     "locales": [
       {
@@ -895,7 +873,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmhnnhoa2o",
+    "rkey": "3ltbqstwvse2w",
     "identifier": "country-pa",
     "locales": [
       {
@@ -906,7 +884,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmhnzour2v",
+    "rkey": "3ltbqsudo7i2u",
     "identifier": "country-ps",
     "locales": [
       {
@@ -917,7 +895,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmhoghnc25",
+    "rkey": "3ltbqsupwwa2m",
     "identifier": "country-pw",
     "locales": [
       {
@@ -928,7 +906,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmhosog62v",
+    "rkey": "3ltbqsv4iby2m",
     "identifier": "country-pk",
     "locales": [
       {
@@ -939,7 +917,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmhp7icr2c",
+    "rkey": "3ltbqsviqmh2t",
     "identifier": "country-om",
     "locales": [
       {
@@ -950,7 +928,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmhpmchr2c",
+    "rkey": "3ltbqsvvfnd2f",
     "identifier": "country-no",
     "locales": [
       {
@@ -961,7 +939,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmhpyy6625",
+    "rkey": "3ltbqswbzbg2r",
     "identifier": "country-mp",
     "locales": [
       {
@@ -972,7 +950,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmhqfdrj2v",
+    "rkey": "3ltbqswp7pj2v",
     "identifier": "country-mk",
     "locales": [
       {
@@ -983,7 +961,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmhqqwdp2u",
+    "rkey": "3ltbqsx3gpm2o",
     "identifier": "country-kp",
     "locales": [
       {
@@ -994,7 +972,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmhr56hr2v",
+    "rkey": "3ltbqsxi2qd2f",
     "identifier": "country-nf",
     "locales": [
       {
@@ -1005,7 +983,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmhrjx6j2z",
+    "rkey": "3ltbqsxv6yd2c",
     "identifier": "country-nu",
     "locales": [
       {
@@ -1016,7 +994,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmhrw65v2b",
+    "rkey": "3ltbqsybhkt2c",
     "identifier": "country-ng",
     "locales": [
       {
@@ -1027,7 +1005,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmhscen62v",
+    "rkey": "3ltbqsynoha2v",
     "identifier": "country-ne",
     "locales": [
       {
@@ -1038,7 +1016,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmhsokta2w",
+    "rkey": "3ltbqsz2u4k2z",
     "identifier": "country-ni",
     "locales": [
       {
@@ -1049,18 +1027,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmht3d6m2r",
-    "identifier": "country-nz",
-    "locales": [
-      {
-        "lang": "en",
-        "name": "New Zealand",
-        "description": "New Zealand"
-      }
-    ]
-  },
-  {
-    "rkey": "3ltbmhti4so25",
+    "rkey": "3ltbqt2274525",
     "identifier": "country-nc",
     "locales": [
       {
@@ -1071,7 +1038,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmhttqgm2r",
+    "rkey": "3ltbqt2hnta2m",
     "identifier": "country-an",
     "locales": [
       {
@@ -1082,7 +1049,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmhu7zhg25",
+    "rkey": "3ltbqt2udld2f",
     "identifier": "country-np",
     "locales": [
       {
@@ -1093,7 +1060,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmhumipg2v",
+    "rkey": "3ltbqt3b2da2m",
     "identifier": "country-nr",
     "locales": [
       {
@@ -1104,7 +1071,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmhuynwa2w",
+    "rkey": "3ltbqt3o4af25",
     "identifier": "country-na",
     "locales": [
       {
@@ -1115,7 +1082,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmhvelid2h",
+    "rkey": "3ltbqt42ojk2z",
     "identifier": "country-mm",
     "locales": [
       {
@@ -1126,7 +1093,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmhvrhya2o",
+    "rkey": "3ltbqt4hhpc2z",
     "identifier": "country-mz",
     "locales": [
       {
@@ -1137,7 +1104,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmhw62zp2f",
+    "rkey": "3ltbqt4tpoi25",
     "identifier": "country-ma",
     "locales": [
       {
@@ -1148,7 +1115,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmhwl3gj2z",
+    "rkey": "3ltbqt5aghg2r",
     "identifier": "country-ms",
     "locales": [
       {
@@ -1159,7 +1126,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmhwxl752b",
+    "rkey": "3ltbqt5nlif25",
     "identifier": "country-me",
     "locales": [
       {
@@ -1170,7 +1137,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmhxezen2t",
+    "rkey": "3ltbqt5zkym2w",
     "identifier": "country-mn",
     "locales": [
       {
@@ -1181,7 +1148,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmhxrd6h2m",
+    "rkey": "3ltbqt6fqwf25",
     "identifier": "country-mc",
     "locales": [
       {
@@ -1192,7 +1159,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmhy5gni2o",
+    "rkey": "3ltbqt6t7ge2o",
     "identifier": "country-md",
     "locales": [
       {
@@ -1203,7 +1170,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmhyjmjh2m",
+    "rkey": "3ltbqt7a7wa25",
     "identifier": "country-fm",
     "locales": [
       {
@@ -1214,7 +1181,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmhyvfx72f",
+    "rkey": "3ltbqt7ocng2r",
     "identifier": "country-mx",
     "locales": [
       {
@@ -1225,7 +1192,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmhzcj5f2t",
+    "rkey": "3ltbqta2uue2y",
     "identifier": "country-yt",
     "locales": [
       {
@@ -1236,7 +1203,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmhzphbx2u",
+    "rkey": "3ltbqtajmed2f",
     "identifier": "country-mu",
     "locales": [
       {
@@ -1247,7 +1214,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmi23g7k25",
+    "rkey": "3ltbqtavqch2t",
     "identifier": "country-mr",
     "locales": [
       {
@@ -1258,7 +1225,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmi2hlcl2h",
+    "rkey": "3ltbqtbcjqa2m",
     "identifier": "country-mq",
     "locales": [
       {
@@ -1269,7 +1236,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmi2tssg25",
+    "rkey": "3ltbqtbplsa2v",
     "identifier": "country-mh",
     "locales": [
       {
@@ -1280,7 +1247,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmi37xzh2u",
+    "rkey": "3ltbqtc3iwk2h",
     "identifier": "country-mt",
     "locales": [
       {
@@ -1291,7 +1258,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmi3m7zv2b",
+    "rkey": "3ltbqtchr5a2m",
     "identifier": "country-ml",
     "locales": [
       {
@@ -1302,7 +1269,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmi3yics25",
+    "rkey": "3ltbqtctyms2z",
     "identifier": "country-mv",
     "locales": [
       {
@@ -1313,7 +1280,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmi4ewnb2c",
+    "rkey": "3ltbqtda6ia2v",
     "identifier": "country-my",
     "locales": [
       {
@@ -1324,7 +1291,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmi4qto72m",
+    "rkey": "3ltbqtdnaea2m",
     "identifier": "country-mw",
     "locales": [
       {
@@ -1335,7 +1302,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmi55dd52b",
+    "rkey": "3ltbqtdyvrk2h",
     "identifier": "country-mg",
     "locales": [
       {
@@ -1346,7 +1313,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmi5jtcj2c",
+    "rkey": "3ltbqtefyye2w",
     "identifier": "country-mo",
     "locales": [
       {
@@ -1357,7 +1324,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmi5w4fr2v",
+    "rkey": "3ltbqtesaa42b",
     "identifier": "country-lu",
     "locales": [
       {
@@ -1368,7 +1335,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmi6cvig25",
+    "rkey": "3ltbqtf6fly2m",
     "identifier": "country-lt",
     "locales": [
       {
@@ -1379,7 +1346,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmi6p4lf2t",
+    "rkey": "3ltbqtfknxe2o",
     "identifier": "country-li",
     "locales": [
       {
@@ -1390,7 +1357,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmi73wra2o",
+    "rkey": "3ltbqtfx3na2m",
     "identifier": "country-ly",
     "locales": [
       {
@@ -1401,7 +1368,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmi7i4hr2c",
+    "rkey": "3ltbqtgdovn25",
     "identifier": "country-lr",
     "locales": [
       {
@@ -1412,7 +1379,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmi7udjg25",
+    "rkey": "3ltbqtgqsf32f",
     "identifier": "country-ls",
     "locales": [
       {
@@ -1423,7 +1390,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmiaaksk25",
+    "rkey": "3ltbqth5kqm2w",
     "identifier": "country-lb",
     "locales": [
       {
@@ -1434,7 +1401,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmiamqm62v",
+    "rkey": "3ltbqthjiza2v",
     "identifier": "country-lv",
     "locales": [
       {
@@ -1445,7 +1412,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmiazgb72f",
+    "rkey": "3ltbqthw53i2u",
     "identifier": "country-la",
     "locales": [
       {
@@ -1456,7 +1423,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmibggm72u",
+    "rkey": "3ltbqticfcd2f",
     "identifier": "country-kg",
     "locales": [
       {
@@ -1467,7 +1434,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmibsm6f2t",
+    "rkey": "3ltbqtiokx32f",
     "identifier": "country-kw",
     "locales": [
       {
@@ -1478,7 +1445,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmic6sdg25",
+    "rkey": "3ltbqtj2wvf25",
     "identifier": "country-xk",
     "locales": [
       {
@@ -1489,7 +1456,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmickuc72f",
+    "rkey": "3ltbqtjhf2e2w",
     "identifier": "country-ki",
     "locales": [
       {
@@ -1500,7 +1467,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmicxi7g2v",
+    "rkey": "3ltbqtjtxmk2z",
     "identifier": "country-ke",
     "locales": [
       {
@@ -1511,7 +1478,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmidhjmh2u",
+    "rkey": "3ltbqtkb4vu2b",
     "identifier": "country-kz",
     "locales": [
       {
@@ -1522,7 +1489,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmidtweg2v",
+    "rkey": "3ltbqtknuo32c",
     "identifier": "country-jo",
     "locales": [
       {
@@ -1533,7 +1500,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmiebwdr2c",
+    "rkey": "3ltbqtl22ia2m",
     "identifier": "country-je",
     "locales": [
       {
@@ -1544,7 +1511,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmieo3jz2v",
+    "rkey": "3ltbqtlfoeg2r",
     "identifier": "country-jp",
     "locales": [
       {
@@ -1555,7 +1522,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmiezgtd2h",
+    "rkey": "3ltbqtlt4mj2v",
     "identifier": "country-jm",
     "locales": [
       {
@@ -1566,7 +1533,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmiffxlf2t",
+    "rkey": "3ltbqtma4z42o",
     "identifier": "country-ci",
     "locales": [
       {
@@ -1577,18 +1544,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmifsr462v",
-    "identifier": "country-it",
-    "locales": [
-      {
-        "lang": "en",
-        "name": "Italy",
-        "description": "Italy"
-      }
-    ]
-  },
-  {
-    "rkey": "3ltbmig7m3k25",
+    "rkey": "3ltbqtmm6ek2h",
     "identifier": "country-il",
     "locales": [
       {
@@ -1599,7 +1555,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmiglsz52b",
+    "rkey": "3ltbqtmyncc2z",
     "identifier": "country-im",
     "locales": [
       {
@@ -1610,7 +1566,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmigyjt72u",
+    "rkey": "3ltbqtnfi7e2w",
     "identifier": "country-ie",
     "locales": [
       {
@@ -1621,7 +1577,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmihetcf2t",
+    "rkey": "3ltbqtnro2q2u",
     "identifier": "country-iq",
     "locales": [
       {
@@ -1632,7 +1588,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmihratp2u",
+    "rkey": "3ltbqto67wk2h",
     "identifier": "country-ir",
     "locales": [
       {
@@ -1643,29 +1599,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmii57t72m",
-    "identifier": "country-id",
-    "locales": [
-      {
-        "lang": "en",
-        "name": "Indonesia",
-        "description": "Indonesia"
-      }
-    ]
-  },
-  {
-    "rkey": "3ltbmiikbmp2u",
-    "identifier": "country-in",
-    "locales": [
-      {
-        "lang": "en",
-        "name": "India",
-        "description": "India"
-      }
-    ]
-  },
-  {
-    "rkey": "3ltbmiiwuev2b",
+    "rkey": "3ltbqtolx4a2v",
     "identifier": "country-is",
     "locales": [
       {
@@ -1676,7 +1610,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmijd7qg2v",
+    "rkey": "3ltbqtoymrd2f",
     "identifier": "country-hu",
     "locales": [
       {
@@ -1687,7 +1621,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmijqp4h2u",
+    "rkey": "3ltbqtpf7v42b",
     "identifier": "country-hk",
     "locales": [
       {
@@ -1698,7 +1632,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmik5t5k25",
+    "rkey": "3ltbqtprz5z2v",
     "identifier": "country-hn",
     "locales": [
       {
@@ -1709,7 +1643,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmikkzdo25",
+    "rkey": "3ltbqtq5xhq2u",
     "identifier": "country-hm",
     "locales": [
       {
@@ -1720,7 +1654,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmikxsvi2w",
+    "rkey": "3ltbqtqkakj2v",
     "identifier": "country-ht",
     "locales": [
       {
@@ -1731,7 +1665,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmileetv2b",
+    "rkey": "3ltbqtqwfrf25",
     "identifier": "country-gy",
     "locales": [
       {
@@ -1742,7 +1676,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmilqoxp2u",
+    "rkey": "3ltbqtrdaai25",
     "identifier": "country-gw",
     "locales": [
       {
@@ -1753,7 +1687,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmim5fzi2w",
+    "rkey": "3ltbqtrpghy2u",
     "identifier": "country-gn",
     "locales": [
       {
@@ -1764,7 +1698,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmimjv252b",
+    "rkey": "3ltbqts4gj22z",
     "identifier": "country-gg",
     "locales": [
       {
@@ -1775,7 +1709,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmimvtxr2v",
+    "rkey": "3ltbqtsjdjg2r",
     "identifier": "country-gt",
     "locales": [
       {
@@ -1786,7 +1720,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmincaxj2z",
+    "rkey": "3ltbqtsvvyn25",
     "identifier": "country-gu",
     "locales": [
       {
@@ -1797,7 +1731,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbminoana2o",
+    "rkey": "3ltbqttcpye2o",
     "identifier": "country-gp",
     "locales": [
       {
@@ -1808,7 +1742,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmio2ghc25",
+    "rkey": "3ltbqttpioa25",
     "identifier": "country-gd",
     "locales": [
       {
@@ -1819,7 +1753,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmiohjp52b",
+    "rkey": "3ltbqtu3hls2h",
     "identifier": "country-gl",
     "locales": [
       {
@@ -1830,7 +1764,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmiotzad2h",
+    "rkey": "3ltbqtuicze2y",
     "identifier": "country-gr",
     "locales": [
       {
@@ -1841,7 +1775,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmipbrzn2t",
+    "rkey": "3ltbqtuuqi42y",
     "identifier": "country-gi",
     "locales": [
       {
@@ -1852,7 +1786,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmipowwf2t",
+    "rkey": "3ltbqtvat742y",
     "identifier": "country-gh",
     "locales": [
       {
@@ -1863,18 +1797,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmiq34w62v",
-    "identifier": "country-de",
-    "locales": [
-      {
-        "lang": "en",
-        "name": "Germany",
-        "description": "Germany"
-      }
-    ]
-  },
-  {
-    "rkey": "3ltbmiqguch2f",
+    "rkey": "3ltbqtvnrae2w",
     "identifier": "country-ge",
     "locales": [
       {
@@ -1885,7 +1808,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmiqtcw52y",
+    "rkey": "3ltbqtvzy2y2u",
     "identifier": "country-gm",
     "locales": [
       {
@@ -1896,7 +1819,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmir7zer2z",
+    "rkey": "3ltbqtwggjk2z",
     "identifier": "country-ga",
     "locales": [
       {
@@ -1907,7 +1830,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmirlw6h2u",
+    "rkey": "3ltbqtwt2dj2v",
     "identifier": "country-tf",
     "locales": [
       {
@@ -1918,7 +1841,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmiry67g25",
+    "rkey": "3ltbqtx7hef25",
     "identifier": "country-pf",
     "locales": [
       {
@@ -1929,7 +1852,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmiseeaa2w",
+    "rkey": "3ltbqtxlgmb2v",
     "identifier": "country-gf",
     "locales": [
       {
@@ -1940,18 +1863,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmisqmg52b",
-    "identifier": "country-fr",
-    "locales": [
-      {
-        "lang": "en",
-        "name": "France",
-        "description": "France"
-      }
-    ]
-  },
-  {
-    "rkey": "3ltbmit5dnf2b",
+    "rkey": "3ltbqtxy3ly2v",
     "identifier": "country-fi",
     "locales": [
       {
@@ -1962,7 +1874,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmitk5wd2h",
+    "rkey": "3ltbqtyefwc2z",
     "identifier": "country-fj",
     "locales": [
       {
@@ -1973,7 +1885,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmitxdow25",
+    "rkey": "3ltbqtyv62k2z",
     "identifier": "country-fo",
     "locales": [
       {
@@ -1984,7 +1896,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmiud24f2y",
+    "rkey": "3ltbqtzbrgn25",
     "identifier": "country-fk",
     "locales": [
       {
@@ -1995,7 +1907,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmiupqhi2o",
+    "rkey": "3ltbqtznxg42b",
     "identifier": "country-et",
     "locales": [
       {
@@ -2006,7 +1918,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmiv4rrg2v",
+    "rkey": "3ltbqu225my2u",
     "identifier": "country-sz",
     "locales": [
       {
@@ -2017,7 +1929,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmiviqce2r",
+    "rkey": "3ltbqu2gmtm2w",
     "identifier": "country-ee",
     "locales": [
       {
@@ -2028,7 +1940,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmivvaux2m",
+    "rkey": "3ltbqu2tgak2z",
     "identifier": "country-er",
     "locales": [
       {
@@ -2039,7 +1951,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmiwbpl625",
+    "rkey": "3ltbqu3a5jn25",
     "identifier": "country-gq",
     "locales": [
       {
@@ -2050,7 +1962,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmiwnxtk25",
+    "rkey": "3ltbqu3mieq25",
     "identifier": "country-sv",
     "locales": [
       {
@@ -2061,7 +1973,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmiwzvmj2z",
+    "rkey": "3ltbqu3yzla2v",
     "identifier": "country-eg",
     "locales": [
       {
@@ -2072,7 +1984,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmixgc272u",
+    "rkey": "3ltbqu4ftjk2z",
     "identifier": "country-ec",
     "locales": [
       {
@@ -2083,7 +1995,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmixscsp2u",
+    "rkey": "3ltbqu4s2ze2o",
     "identifier": "country-do",
     "locales": [
       {
@@ -2094,7 +2006,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmiy6jba2w",
+    "rkey": "3ltbqu56isa2v",
     "identifier": "country-dm",
     "locales": [
       {
@@ -2105,7 +2017,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmiyl5lf2y",
+    "rkey": "3ltbqu5lcot2c",
     "identifier": "country-dj",
     "locales": [
       {
@@ -2116,7 +2028,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmiyy4rh2u",
+    "rkey": "3ltbqu5xcge2o",
     "identifier": "country-dk",
     "locales": [
       {
@@ -2127,7 +2039,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmizdzme2r",
+    "rkey": "3ltbqu6edqa2v",
     "identifier": "country-cd",
     "locales": [
       {
@@ -2138,7 +2050,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmizqttr2z",
+    "rkey": "3ltbqu6qv3y2v",
     "identifier": "country-cz",
     "locales": [
       {
@@ -2149,7 +2061,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmj24ifd2h",
+    "rkey": "3ltbqu75mzg2r",
     "identifier": "country-cy",
     "locales": [
       {
@@ -2160,7 +2072,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmj2j2pz2v",
+    "rkey": "3ltbqu7ogb525",
     "identifier": "country-cw",
     "locales": [
       {
@@ -2171,7 +2083,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmj2v7cg25",
+    "rkey": "3ltbqua2yjq2u",
     "identifier": "country-cu",
     "locales": [
       {
@@ -2182,7 +2094,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmj3b6j52y",
+    "rkey": "3ltbquahak42b",
     "identifier": "country-hr",
     "locales": [
       {
@@ -2193,7 +2105,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmj3nm4r2c",
+    "rkey": "3ltbquatoee2w",
     "identifier": "country-cr",
     "locales": [
       {
@@ -2204,7 +2116,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmj42nbx2m",
+    "rkey": "3ltbqubbdiu2b",
     "identifier": "country-ck",
     "locales": [
       {
@@ -2215,7 +2127,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmj4hbwr2v",
+    "rkey": "3ltbqubnomk2z",
     "identifier": "country-km",
     "locales": [
       {
@@ -2226,7 +2138,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmj4u2ga2w",
+    "rkey": "3ltbqubzo7e2y",
     "identifier": "country-co",
     "locales": [
       {
@@ -2237,7 +2149,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmj57xks25",
+    "rkey": "3ltbqucgrx32f",
     "identifier": "country-cc",
     "locales": [
       {
@@ -2248,7 +2160,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmj5mini2w",
+    "rkey": "3ltbqucsut42w",
     "identifier": "country-cx",
     "locales": [
       {
@@ -2259,7 +2171,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmj5yfad2h",
+    "rkey": "3ltbqud6yed2f",
     "identifier": "country-cn",
     "locales": [
       {
@@ -2270,7 +2182,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmj6ffeh2f",
+    "rkey": "3ltbqudleqj2v",
     "identifier": "country-cl",
     "locales": [
       {
@@ -2281,7 +2193,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmj6robh2u",
+    "rkey": "3ltbqudxjxf25",
     "identifier": "country-td",
     "locales": [
       {
@@ -2292,7 +2204,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmj75rn72f",
+    "rkey": "3ltbquedrfe2o",
     "identifier": "country-cf",
     "locales": [
       {
@@ -2303,7 +2215,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmj7kfdr2z",
+    "rkey": "3ltbquepx5k2z",
     "identifier": "country-ky",
     "locales": [
       {
@@ -2314,18 +2226,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmj7webh2m",
-    "identifier": "country-ca",
-    "locales": [
-      {
-        "lang": "en",
-        "name": "Canada",
-        "description": "Canada"
-      }
-    ]
-  },
-  {
-    "rkey": "3ltbmjaea472f",
+    "rkey": "3ltbquf4uma25",
     "identifier": "country-cm",
     "locales": [
       {
@@ -2336,7 +2237,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmjaql3c25",
+    "rkey": "3ltbqufionk2h",
     "identifier": "country-kh",
     "locales": [
       {
@@ -2347,7 +2248,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmjb4km52y",
+    "rkey": "3ltbqufuvbk2h",
     "identifier": "country-cv",
     "locales": [
       {
@@ -2358,7 +2259,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmjbiz4f2t",
+    "rkey": "3ltbqugbfl42b",
     "identifier": "country-bi",
     "locales": [
       {
@@ -2369,7 +2270,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmjbvcw72m",
+    "rkey": "3ltbqugnqle2o",
     "identifier": "country-bf",
     "locales": [
       {
@@ -2380,7 +2281,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmjcbz672m",
+    "rkey": "3ltbquh22242y",
     "identifier": "country-bg",
     "locales": [
       {
@@ -2391,7 +2292,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmjcrwcr2v",
+    "rkey": "3ltbquhgicd2f",
     "identifier": "country-bn",
     "locales": [
       {
@@ -2402,7 +2303,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmjdrv2i2w",
+    "rkey": "3ltbquhssc525",
     "identifier": "country-vg",
     "locales": [
       {
@@ -2413,7 +2314,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmje6alf2y",
+    "rkey": "3ltbqui7ju42b",
     "identifier": "country-io",
     "locales": [
       {
@@ -2424,18 +2325,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmjelauc25",
-    "identifier": "country-br",
-    "locales": [
-      {
-        "lang": "en",
-        "name": "Brazil",
-        "description": "Brazil"
-      }
-    ]
-  },
-  {
-    "rkey": "3ltbmjex4me2r",
+    "rkey": "3ltbquilss42w",
     "identifier": "country-bv",
     "locales": [
       {
@@ -2446,7 +2336,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmjfe5c72f",
+    "rkey": "3ltbquixzll2c",
     "identifier": "country-bw",
     "locales": [
       {
@@ -2457,7 +2347,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmjfqxh72f",
+    "rkey": "3ltbqujebha2v",
     "identifier": "country-ba",
     "locales": [
       {
@@ -2468,7 +2358,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmjg5vtr2c",
+    "rkey": "3ltbqujqkg32f",
     "identifier": "country-bq",
     "locales": [
       {
@@ -2479,7 +2369,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmjgjya72f",
+    "rkey": "3ltbquk5rlt2c",
     "identifier": "country-bo",
     "locales": [
       {
@@ -2490,7 +2380,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmjgwxka2o",
+    "rkey": "3ltbqukk3fy2v",
     "identifier": "country-bt",
     "locales": [
       {
@@ -2501,7 +2391,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmjhd72f2y",
+    "rkey": "3ltbqukwgrf25",
     "identifier": "country-bm",
     "locales": [
       {
@@ -2512,7 +2402,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmjhpdd625",
+    "rkey": "3ltbqulcjgk2z",
     "identifier": "country-bj",
     "locales": [
       {
@@ -2523,7 +2413,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmji46xa2o",
+    "rkey": "3ltbqulopte2w",
     "identifier": "country-bz",
     "locales": [
       {
@@ -2534,7 +2424,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmjiiymg25",
+    "rkey": "3ltbqum2pne2y",
     "identifier": "country-be",
     "locales": [
       {
@@ -2545,7 +2435,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmjiv7ag25",
+    "rkey": "3ltbqumh5p42b",
     "identifier": "country-by",
     "locales": [
       {
@@ -2556,7 +2446,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmjjbfm72m",
+    "rkey": "3ltbqumu7ni25",
     "identifier": "country-bb",
     "locales": [
       {
@@ -2567,7 +2457,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmjjoaja2o",
+    "rkey": "3ltbqunandd2f",
     "identifier": "country-bd",
     "locales": [
       {
@@ -2578,7 +2468,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmjk24gm2r",
+    "rkey": "3ltbqunnbsm2y",
     "identifier": "country-bh",
     "locales": [
       {
@@ -2589,7 +2479,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmjkgfu52y",
+    "rkey": "3ltbquo23fi2v",
     "identifier": "country-bs",
     "locales": [
       {
@@ -2600,7 +2490,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmjkskad2h",
+    "rkey": "3ltbquoglry2v",
     "identifier": "country-az",
     "locales": [
       {
@@ -2611,7 +2501,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmjl6t452y",
+    "rkey": "3ltbquotovi25",
     "identifier": "country-at",
     "locales": [
       {
@@ -2622,18 +2512,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmjlljrg2v",
-    "identifier": "country-au",
-    "locales": [
-      {
-        "lang": "en",
-        "name": "Australia",
-        "description": "Australia"
-      }
-    ]
-  },
-  {
-    "rkey": "3ltbmjlxr2i2o",
+    "rkey": "3ltbqup7n4e2w",
     "identifier": "country-aw",
     "locales": [
       {
@@ -2644,7 +2523,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmjmdzal2h",
+    "rkey": "3ltbquplsyc2z",
     "identifier": "country-am",
     "locales": [
       {
@@ -2655,7 +2534,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmjmq6vd2h",
+    "rkey": "3ltbqupy3he2o",
     "identifier": "country-ar",
     "locales": [
       {
@@ -2666,7 +2545,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmjn4p6g25",
+    "rkey": "3ltbquqebbf25",
     "identifier": "country-ag",
     "locales": [
       {
@@ -2677,7 +2556,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmjnjomf2y",
+    "rkey": "3ltbquqqhxa2m",
     "identifier": "country-aq",
     "locales": [
       {
@@ -2688,7 +2567,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmjnwdig25",
+    "rkey": "3ltbqur5cxa2u",
     "identifier": "country-ai",
     "locales": [
       {
@@ -2699,7 +2578,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmjocl6r2v",
+    "rkey": "3ltbqurjjhh2t",
     "identifier": "country-ao",
     "locales": [
       {
@@ -2710,7 +2589,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmjoos4f2y",
+    "rkey": "3ltbqurvq3h2t",
     "identifier": "country-ad",
     "locales": [
       {
@@ -2721,7 +2600,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmjp3sbp2u",
+    "rkey": "3ltbqusbuuq2u",
     "identifier": "country-as",
     "locales": [
       {
@@ -2732,7 +2611,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmjpindf2t",
+    "rkey": "3ltbqut6tlt2c",
     "identifier": "country-dz",
     "locales": [
       {
@@ -2743,7 +2622,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmjpv7ct2h",
+    "rkey": "3ltbqutl2df25",
     "identifier": "country-al",
     "locales": [
       {
@@ -2754,7 +2633,7 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmjqcjei2w",
+    "rkey": "3ltbqutwzxe2o",
     "identifier": "country-ax",
     "locales": [
       {
@@ -2765,13 +2644,134 @@ export const LABELS: Label[] = [
     ]
   },
   {
-    "rkey": "3ltbmjqpamf2y",
+    "rkey": "3ltbquudt6t2c",
     "identifier": "country-af",
     "locales": [
       {
         "lang": "en",
         "name": "Afghanistan",
         "description": "Afghanistan"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbquuqmjy2m",
+    "identifier": "country-id",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Indonesia",
+        "description": "Indonesia"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbquv3x7k2h",
+    "identifier": "country-in",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "India",
+        "description": "India"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbquvipci25",
+    "identifier": "country-br",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Brazil",
+        "description": "Brazil"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbquvunqk2z",
+    "identifier": "country-it",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Italy",
+        "description": "Italy"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbquwbgul2c",
+    "identifier": "country-de",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Germany",
+        "description": "Germany"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbquwnjgu2y",
+    "identifier": "country-fr",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "France",
+        "description": "France"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbquwzxp32f",
+    "identifier": "country-nz",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "New Zealand",
+        "description": "New Zealand"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbquxgpck2z",
+    "identifier": "country-au",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Australia",
+        "description": "Australia"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbquxsrnd2f",
+    "identifier": "country-gb",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "United Kingdom",
+        "description": "United Kingdom"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbquy7xoe2w",
+    "identifier": "country-ca",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Canada",
+        "description": "Canada"
+      }
+    ]
+  },
+  {
+    "rkey": "3ltbquymtz22z",
+    "identifier": "country-us",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "United States",
+        "description": "United States"
       }
     ]
   }

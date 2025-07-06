@@ -40,6 +40,7 @@ if (answer != 'y') {
 }
 
 const postsToDelete = await bot.profile.getPosts();
+console.log(`Deleting ${postsToDelete.posts.length} posts...`);
 for (const post of postsToDelete.posts) {
   await post.delete();
 }
@@ -66,14 +67,15 @@ let countries: Country[] = records.map((record: string[]) => {
     capital,
   } as Country;
 });
-countries.sort((a, b) => a.country.localeCompare(b.country));
+
 
 const topCountryISO2: string[] = ['US', 'CA', 'GB', 'AU', 'NZ', 'FR', 'DE', 'IT', 'BR', 'IN', 'ID'];
-const topCountries: Country[] = countries.filter((country) => topCountryISO2.includes(country.iso2));
+const topCountries: Country[] = topCountryISO2.map(iso2 => countries.find(x => x.iso2 === iso2)).filter(x => x !== undefined);
 const otherCountries: Country[] = countries.filter((country) => !topCountryISO2.includes(country.iso2));
 
-countries = [...topCountries, ...otherCountries];
-countries.sort((a, b) => -a.country.localeCompare(b.country));
+topCountries.sort((a, b) => topCountries.indexOf(b) - topCountries.indexOf(a));
+otherCountries.sort((a, b) => -a.country.localeCompare(b.country));
+countries = [...otherCountries, ...topCountries];
 
 const output: Label[] = [];
 
